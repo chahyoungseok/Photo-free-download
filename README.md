@@ -83,5 +83,42 @@
       - 다만 고정하기 기능은 해당 사진을 올린 사용자가 아니면 관리자도 건들이지 못하는 기능으로 구현하였습니다.
 
  ## 5. 사진과 함께 소개
-    1. 메인화면
-   <img src="/4주차/삽입코드2.PNG" width="500">
+   1. 메인화면(로그아웃)
+   <img src="/pictures/LogoutMain.PNG" width="500">
+   2. 회원가입
+   <img src="/pictures/Membership.PNG" width="500">
+   3. 로그인
+   <img src="/pictures/Login.PNG" width="500">
+   4. 사진링크(로그아웃)
+   <img src="/pictures/LogoutPhotoLink.PNG" width="500">
+   5. 메인화면(로그인)
+   <img src="/pictures/LoginMain.PNG" width="500">
+   6. 정보수정
+   <img src="/pictures/changeInfo.PNG" width="500">
+   7. 내 사진관
+   <img src="/pictures/myPhotoList.PNG" width="500">
+   8. 사진페이지(non-host)
+   <img src="/pictures/PhotoDetail.PNG" width="500">
+   <img src="/pictures/PhotoDetail2.PNG" width="500">
+   9. 내 사진페이지(host)
+   <img src="/pictures/myPhotoDetail.PNG" width="500">
+   10. 사진수정 페이지(host)
+   <img src="/pictures/photoModify.PNG" width="500">
+   11. 사진업로드 페이지
+   <img src="/pictures/photoUpload.PNG" width="500">
+   12. 전체 사진관
+   <img src="/pictures/PhotoList.PNG" width="500">
+   <img src="/pictures/PhotoList2.PNG" width="500">
+   13. 메시지 리스트
+   <img src="/pictures/message.PNG" width="500">
+   14. 대화 창 페이지
+   <img src="/pictures/chatting.PNG" width="500">
+   15. 친구 리스트
+   <img src="/pictures/friendList.PNG" width="500">
+   <img src="/pictures/friendList2.PNG" width="500">
+   16. 친구 사진관
+   <img src="/pictures/friendPhotoList.PNG" width="500">
+   17. 관리자 메인화면
+   <img src="/pictures/adminMain.PNG" width="500">
+   18. 관리자 추가기능
+   <img src="/pictures/adminFunction.PNG" width="500">
