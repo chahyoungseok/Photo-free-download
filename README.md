@@ -94,7 +94,7 @@
    5. 메인화면(로그인)
    <img src="/pictures/LoginMain.PNG" width="500">
    6. 정보수정
-   <img src="/pictures/changeInfo.PNG" width="500">
+   <img src="/pictures/changInfo.PNG" width="500">
    7. 내 사진관
    <img src="/pictures/myPhotoList.PNG" width="500">
    8. 사진페이지(non-host)
