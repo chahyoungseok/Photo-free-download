@@ -3,8 +3,7 @@
 <p>
 <img src="https://img.shields.io/badge/license-mit-green">
 <img src="https://img.shields.io/github/issues/chahyoungseok/Photo-free-download">
-<img src="https://img.shields.io/badge/xampp-v7.3.27-blue">
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP-SV&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP v7.3.27-FB7A24?style=flat-square&logo=XAMPP-SV&logoColor=white"/>
 </p>
 
 
