@@ -1,5 +1,12 @@
 # __PHP 프로젝트(Photo-free-download)__
 
+<p>
+<img src="https://img.shields.io/badge/license-mit-green">
+<img src="https://img.shields.io/github/issues/chahyoungseok/Photo-free-download">
+<img src="https://img.shields.io/badge/xampp-v7.3.27-blue">
+</p>
+
+
 ## 1. 프로젝트 소개
  > 사진을 공유하고 무료로 다운로드 받을 수 있는 php 웹페이지
 
